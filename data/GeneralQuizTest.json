@@ -1,0 +1,23 @@
+{
+  "questions": [
+    {
+      "pointValue": 3,
+      "possibleResponses": [
+        "A : select me ",
+        "B : I am the answer"
+      ],
+      "questionPrompt": "this is a test",
+      "correctAnswer": "B"
+    },
+    {
+      "pointValue": 4,
+      "possibleResponses": [
+        "A : choose me",
+        "B : you better choose me"
+      ],
+      "questionPrompt": "another test question",
+      "correctAnswer": "B"
+    }
+  ],
+  "maxLength": 2
+}

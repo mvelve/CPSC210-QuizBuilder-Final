@@ -1,0 +1,25 @@
+{
+    "questions": [
+        {
+            "pointValue": 10,
+            "possibleResponses": [
+                "Response A",
+                "Response B",
+                "Response C"
+            ],
+            "questionPrompt": "This is a prompt to your quiz",
+            "correctAnswer": "A"
+        },
+        {
+            "pointValue": 20,
+            "possibleResponses": [
+                "Response D",
+                "Response E",
+                "Response F"
+            ],
+            "questionPrompt": "This is another prompt to your quiz",
+            "correctAnswer": "B"
+        }
+    ],
+    "maxLength": 10
+}
